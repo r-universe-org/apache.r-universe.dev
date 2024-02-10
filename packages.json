@@ -1,0 +1,13 @@
+[
+  {
+    "package": "arrow",
+    "url": "https://github.com/apache/arrow",
+    "branch": "r-universe-release",
+    "subdir": "r"
+  },
+  {
+    "package": "nanoarrow",
+    "url": "https://github.com/apache/arrow-nanoarrow",
+    "subdir": "r"
+  }
+]
