@@ -9,5 +9,15 @@
     "package": "nanoarrow",
     "url": "https://github.com/apache/arrow-nanoarrow",
     "subdir": "r"
+  },
+  {
+    "package": "adbcdrivermanager",
+    "url": "https://github.com/apache/arrow-adbc",
+    "subdir": "r/adbcdrivermanager"
+  },
+  {
+    "package": "adbcsqlite",
+    "url": "https://github.com/apache/arrow-adbc",
+    "subdir": "r/adbcsqlite"
   }
 ]
