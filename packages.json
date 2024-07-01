@@ -16,6 +16,11 @@
     "subdir": "r/adbcdrivermanager"
   },
   {
+    "package": "adbcpostgresql",
+    "url": "https://github.com/apache/arrow-adbc",
+    "subdir": "r/adbcpostgresql"
+  },
+  {
     "package": "adbcsqlite",
     "url": "https://github.com/apache/arrow-adbc",
     "subdir": "r/adbcsqlite"
