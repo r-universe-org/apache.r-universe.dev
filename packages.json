@@ -19,5 +19,10 @@
     "package": "adbcsqlite",
     "url": "https://github.com/apache/arrow-adbc",
     "subdir": "r/adbcsqlite"
+  },
+  {
+    "package": "apache.sedona",
+    "url": "https://github.com/apache/sedona",
+    "subdir": "R"
   }
 ]
