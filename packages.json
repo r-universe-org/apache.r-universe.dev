@@ -2,7 +2,7 @@
   {
     "package": "arrow",
     "url": "https://github.com/apache/arrow",
-    "branch": "r-universe-release",
+    "branch": "*release",
     "subdir": "r"
   },
   {
