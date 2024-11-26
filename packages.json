@@ -26,6 +26,21 @@
     "subdir": "r/adbcsqlite"
   },
   {
+    "package": "adbcsnowflake",
+    "url": "https://github.com/apache/arrow-adbc",
+    "subdir": "r/adbcsnowflake"
+  },
+  {
+    "package": "adbcbigquery",
+    "url": "https://github.com/apache/arrow-adbc",
+    "subdir": "r/adbcbigquery"
+  },
+  {
+    "package": "adbcflightsql",
+    "url": "https://github.com/apache/arrow-adbc",
+    "subdir": "r/adbcflightsql"
+  },
+  {
     "package": "apache.sedona",
     "url": "https://github.com/apache/sedona",
     "subdir": "R"
