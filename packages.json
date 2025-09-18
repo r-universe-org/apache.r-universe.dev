@@ -44,5 +44,11 @@
     "package": "apache.sedona",
     "url": "https://github.com/apache/sedona",
     "subdir": "R"
+  },
+  ,
+  {
+    "package": "sedonadb",
+    "url": "https://github.com/apache/sedona-db",
+    "subdir": "r/sedonadb"
   }
 ]
