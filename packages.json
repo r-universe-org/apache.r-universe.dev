@@ -1,4 +1,4 @@
-[
+ [
   {
     "package": "arrow",
     "url": "https://github.com/apache/arrow",
@@ -29,6 +29,11 @@
     "package": "apache.sedona",
     "url": "https://github.com/apache/sedona",
     "subdir": "R"
+  },
+  {
+    "package": "sdplyr",
+    "url": "https://github.com/apache/sedona-db",
+    "subdir": "r/sdplyr"
   },
   {
     "package": "sedonadb",
